@@ -3,7 +3,7 @@
 Sentiment Analysis using:
 - VADER library for Python
 - Tweepy for Twitter API
-- Matplotlib, WordCloud, Squarify, Seaborn
+- visualizations with Matplotlib, WordCloud, Squarify, Seaborn
 
 Scenarios explored:
 - comparison of sentiments on Korean dramas
